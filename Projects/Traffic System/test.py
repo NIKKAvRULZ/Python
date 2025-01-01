@@ -1,6 +1,5 @@
-# Author: 
-# Date: 
-# Student ID: 
+# Author: Nithika Perera
+# Date: 01/01/2025
 
 import matplotlib.pyplot as plt
 from tkinter import Tk
