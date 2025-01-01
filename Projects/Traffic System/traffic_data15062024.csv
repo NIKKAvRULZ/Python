@@ -1,0 +1,1038 @@
+JunctionName,Date,timeOfDay,travel_Direction_in,travel_Direction_out,Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
+Elm Avenue/Rabbit Road,15/06/2024,00:40:34,W,W,Overcast,30,34,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,00:29:55,E,N,Overcast,30,15,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,00:06:27,E,E,Overcast,30,16,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,00:11:28,W,N,Overcast,30,18,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,00:37:28,E,E,Overcast,30,4,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,00:46:48,N,N,Overcast,30,33,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,00:35:37,W,W,Overcast,30,12,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,00:13:09,W,N,Overcast,30,34,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,00:56:49,W,S,Overcast,30,10,Van,False
+Hanley Highway/Westway,15/06/2024,00:21:20,SW,SW,Overcast,20,15,Scooter,True
+Hanley Highway/Westway,15/06/2024,00:28:19,NE,NW,Overcast,20,21,Car,True
+Hanley Highway/Westway,15/06/2024,00:54:34,SE,SW,Overcast,20,27,Bicycle,True
+Hanley Highway/Westway,15/06/2024,00:59:31,SW,SW,Overcast,20,27,Car,True
+Hanley Highway/Westway,15/06/2024,00:02:04,SW,SW,Overcast,20,14,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,00:21:24,SW,SE,Overcast,20,11,Bicycle,True
+Hanley Highway/Westway,15/06/2024,00:28:34,SW,NW,Overcast,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,00:58:38,SW,SW,Overcast,20,11,Van,False
+Hanley Highway/Westway,15/06/2024,00:42:23,NW,SE,Overcast,20,18,Buss,False
+Hanley Highway/Westway,15/06/2024,00:12:06,SW,SW,Overcast,20,2,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,00:25:00,SW,SE,Overcast,20,1,Bicycle,True
+Hanley Highway/Westway,15/06/2024,00:06:09,SW,SW,Overcast,20,15,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,01:01:23,E,N,Overcast,30,21,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,01:40:02,S,S,Overcast,30,26,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,01:52:27,W,N,Overcast,30,11,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,01:54:43,E,E,Overcast,30,28,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,01:09:05,E,N,Overcast,30,10,Motorcycle,True
+Elm Avenue/Rabbit Road,15/06/2024,01:53:36,S,S,Overcast,30,31,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,01:38:29,W,N,Overcast,30,14,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,01:52:30,S,S,Overcast,30,27,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,01:18:00,N,N,Overcast,30,6,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,01:20:10,S,E,Overcast,30,15,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,01:48:11,SW,SE,Overcast,20,21,Car,False
+Hanley Highway/Westway,15/06/2024,01:33:14,NW,SE,Overcast,20,27,Van,True
+Hanley Highway/Westway,15/06/2024,01:16:48,SW,SW,Overcast,20,14,Buss,True
+Hanley Highway/Westway,15/06/2024,01:30:30,SW,NW,Overcast,20,17,Car,False
+Hanley Highway/Westway,15/06/2024,01:09:07,SE,SW,Overcast,20,22,Car,False
+Hanley Highway/Westway,15/06/2024,01:21:35,SE,SE,Overcast,20,16,Car,False
+Hanley Highway/Westway,15/06/2024,01:15:40,SW,SW,Overcast,20,18,Van,False
+Hanley Highway/Westway,15/06/2024,01:48:23,SW,NW,Overcast,20,3,Bicycle,False
+Hanley Highway/Westway,15/06/2024,01:02:16,SW,SE,Overcast,20,18,Scooter,True
+Hanley Highway/Westway,15/06/2024,01:33:05,NE,NE,Overcast,20,17,Van,True
+Hanley Highway/Westway,15/06/2024,01:56:15,NW,SW,Overcast,20,19,Car,True
+Hanley Highway/Westway,15/06/2024,01:14:38,NW,SE,Overcast,20,10,Scooter,True
+Hanley Highway/Westway,15/06/2024,01:47:39,NW,NW,Overcast,20,8,Bicycle,True
+Hanley Highway/Westway,15/06/2024,01:51:16,SW,SW,Overcast,20,8,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,02:50:32,S,W,Overcast,30,19,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,02:39:30,W,W,Overcast,30,29,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,02:34:42,S,E,Overcast,30,27,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,02:21:14,S,S,Overcast,30,18,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,02:10:58,E,E,Overcast,30,32,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,02:04:24,W,W,Overcast,30,23,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,02:15:29,N,W,Overcast,30,8,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,02:49:56,N,N,Overcast,30,10,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,02:21:18,W,S,Overcast,30,15,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,02:03:48,E,N,Overcast,30,12,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,02:11:26,W,N,Overcast,30,20,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,02:43:39,E,E,Overcast,30,6,Car,False
+Hanley Highway/Westway,15/06/2024,02:35:53,NE,NE,Overcast,20,26,Truck,False
+Hanley Highway/Westway,15/06/2024,02:19:37,NW,NW,Overcast,20,23,Car,True
+Hanley Highway/Westway,15/06/2024,02:22:18,NW,SW,Overcast,20,23,Truck,False
+Hanley Highway/Westway,15/06/2024,02:56:47,SW,NW,Overcast,20,16,Scooter,True
+Hanley Highway/Westway,15/06/2024,02:02:03,NW,NW,Overcast,20,10,Bicycle,True
+Hanley Highway/Westway,15/06/2024,02:50:34,SW,NW,Overcast,20,12,Truck,False
+Hanley Highway/Westway,15/06/2024,02:04:28,NW,NW,Overcast,20,2,Car,False
+Hanley Highway/Westway,15/06/2024,02:57:15,NW,NW,Overcast,20,27,Car,True
+Hanley Highway/Westway,15/06/2024,02:29:43,SW,SW,Overcast,20,10,Van,False
+Hanley Highway/Westway,15/06/2024,02:19:32,SE,SE,Overcast,20,22,Van,True
+Hanley Highway/Westway,15/06/2024,02:45:45,SW,SE,Overcast,20,4,Scooter,True
+Hanley Highway/Westway,15/06/2024,02:19:07,SW,SW,Overcast,20,4,Car,False
+Hanley Highway/Westway,15/06/2024,02:50:26,SE,NE,Overcast,20,2,Buss,False
+Hanley Highway/Westway,15/06/2024,02:50:14,NE,NW,Overcast,20,1,Car,True
+Hanley Highway/Westway,15/06/2024,02:57:23,SE,NE,Overcast,20,5,Truck,False
+Hanley Highway/Westway,15/06/2024,02:59:00,NE,NE,Overcast,20,12,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,03:15:18,S,W,Clear,30,14,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,03:45:45,E,S,Clear,30,9,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,03:50:38,W,S,Clear,30,11,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,03:58:36,E,S,Clear,30,2,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,03:17:08,S,W,Clear,30,12,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,03:11:23,N,W,Clear,30,29,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,03:58:34,S,S,Clear,30,28,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,03:20:35,S,W,Clear,30,32,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,03:57:08,S,W,Clear,30,14,Buss,True
+Elm Avenue/Rabbit Road,15/06/2024,03:29:25,W,N,Clear,30,33,Buss,True
+Elm Avenue/Rabbit Road,15/06/2024,03:34:53,W,S,Clear,30,13,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,03:17:53,N,W,Clear,30,1,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,03:13:18,S,E,Clear,30,10,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,03:06:06,S,E,Clear,30,18,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,03:49:35,S,S,Clear,30,32,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,03:04:09,S,S,Clear,30,15,Van,False
+Hanley Highway/Westway,15/06/2024,03:29:37,SW,SW,Clear,20,17,Van,False
+Hanley Highway/Westway,15/06/2024,03:13:54,SW,SE,Clear,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,03:23:39,SW,NW,Clear,20,6,Bicycle,True
+Hanley Highway/Westway,15/06/2024,03:07:29,NW,SE,Clear,20,1,Bicycle,False
+Hanley Highway/Westway,15/06/2024,03:41:39,NW,NW,Clear,20,23,Truck,False
+Hanley Highway/Westway,15/06/2024,03:46:06,SW,SW,Clear,20,18,Van,True
+Hanley Highway/Westway,15/06/2024,03:06:52,SW,SW,Clear,20,5,Van,False
+Hanley Highway/Westway,15/06/2024,03:59:23,NE,SE,Clear,20,9,Car,False
+Hanley Highway/Westway,15/06/2024,03:44:26,SW,NW,Clear,20,14,Bicycle,False
+Hanley Highway/Westway,15/06/2024,03:34:49,SW,SW,Clear,20,19,Truck,False
+Hanley Highway/Westway,15/06/2024,03:49:58,NW,SE,Clear,20,5,Car,True
+Hanley Highway/Westway,15/06/2024,03:52:19,SW,SE,Clear,20,2,Buss,True
+Hanley Highway/Westway,15/06/2024,03:49:35,SW,NW,Clear,20,21,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,03:41:20,NE,SE,Clear,20,17,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,04:15:57,N,E,Clear,30,13,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,04:55:38,N,E,Clear,30,2,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,04:13:32,N,W,Clear,30,9,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,04:41:25,S,E,Clear,30,11,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,04:18:53,W,N,Clear,30,32,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,04:45:09,S,S,Clear,30,1,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,04:47:48,S,E,Clear,30,11,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,04:13:24,N,N,Clear,30,1,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,04:06:12,N,E,Clear,30,23,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,04:14:25,N,E,Clear,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,04:15:32,N,N,Clear,30,32,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,04:29:38,S,S,Clear,30,17,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,04:31:05,N,E,Clear,30,2,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,04:15:31,N,N,Clear,30,9,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,04:59:52,SE,NE,Clear,20,4,Car,False
+Hanley Highway/Westway,15/06/2024,04:48:52,SW,SE,Clear,20,26,Bicycle,False
+Hanley Highway/Westway,15/06/2024,04:15:13,NE,NE,Clear,20,12,Buss,False
+Hanley Highway/Westway,15/06/2024,04:10:22,SW,SE,Clear,20,21,Truck,False
+Hanley Highway/Westway,15/06/2024,04:42:10,SW,SE,Clear,20,21,Van,False
+Hanley Highway/Westway,15/06/2024,04:52:03,SW,SW,Clear,20,1,Car,True
+Hanley Highway/Westway,15/06/2024,04:09:21,SW,SE,Clear,20,2,Van,True
+Hanley Highway/Westway,15/06/2024,04:41:15,SW,SW,Clear,20,22,Car,False
+Hanley Highway/Westway,15/06/2024,04:15:11,SW,NW,Clear,20,23,Car,False
+Hanley Highway/Westway,15/06/2024,04:10:21,SW,SW,Clear,20,11,Scooter,True
+Hanley Highway/Westway,15/06/2024,04:35:14,NW,SW,Clear,20,7,Car,False
+Hanley Highway/Westway,15/06/2024,04:05:42,NE,NE,Clear,20,27,Bicycle,False
+Hanley Highway/Westway,15/06/2024,04:34:05,SW,NW,Clear,20,16,Car,False
+Hanley Highway/Westway,15/06/2024,04:04:02,NE,NW,Clear,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,04:58:16,SW,SE,Clear,20,20,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,05:47:16,W,N,Clear,30,22,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,05:29:36,N,N,Clear,30,11,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,05:07:10,N,W,Clear,30,29,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,05:41:24,S,S,Clear,30,12,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,05:06:33,N,N,Clear,30,34,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,05:04:32,N,N,Clear,30,11,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,05:41:24,S,S,Clear,30,18,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,05:40:05,N,W,Clear,30,9,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,05:11:38,E,N,Clear,30,29,Buss,True
+Elm Avenue/Rabbit Road,15/06/2024,05:56:56,E,N,Clear,30,32,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,05:25:18,N,E,Clear,30,12,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,05:21:40,N,W,Clear,30,9,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,05:43:36,N,W,Clear,30,7,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,05:23:36,W,N,Clear,30,26,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,05:19:58,E,S,Clear,30,21,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,05:46:30,S,E,Clear,30,28,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,05:10:37,N,W,Clear,30,25,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,05:07:57,S,W,Clear,30,22,Scooter,True
+Hanley Highway/Westway,15/06/2024,05:28:31,SW,NW,Clear,20,10,Buss,False
+Hanley Highway/Westway,15/06/2024,05:03:41,SW,NW,Clear,20,2,Bicycle,True
+Hanley Highway/Westway,15/06/2024,05:48:30,NW,SW,Clear,20,17,Car,False
+Hanley Highway/Westway,15/06/2024,05:10:17,SW,SW,Clear,20,19,Car,False
+Hanley Highway/Westway,15/06/2024,05:45:43,SW,SE,Clear,20,15,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,05:29:39,NW,SE,Clear,20,10,Bicycle,True
+Hanley Highway/Westway,15/06/2024,05:30:55,NW,NW,Clear,20,22,Scooter,True
+Hanley Highway/Westway,15/06/2024,05:32:21,SW,NW,Clear,20,4,Scooter,True
+Hanley Highway/Westway,15/06/2024,05:42:01,NW,SE,Clear,20,1,Truck,False
+Hanley Highway/Westway,15/06/2024,05:28:50,SW,NW,Clear,20,27,Truck,False
+Hanley Highway/Westway,15/06/2024,05:39:33,SW,SW,Clear,20,8,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,05:06:45,SW,SE,Clear,20,7,Bicycle,False
+Hanley Highway/Westway,15/06/2024,05:26:46,SW,SE,Clear,20,17,Bicycle,True
+Hanley Highway/Westway,15/06/2024,05:02:51,SW,SE,Clear,20,2,Car,True
+Hanley Highway/Westway,15/06/2024,05:19:54,SE,NE,Clear,20,19,Bicycle,True
+Hanley Highway/Westway,15/06/2024,05:10:52,SW,NW,Clear,20,10,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,05:41:24,SW,NW,Clear,20,23,Car,False
+Hanley Highway/Westway,15/06/2024,05:26:10,NE,NE,Clear,20,10,Van,True
+Hanley Highway/Westway,15/06/2024,05:04:44,SE,SE,Clear,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,05:37:00,NW,NW,Clear,20,27,Truck,False
+Hanley Highway/Westway,15/06/2024,05:23:44,SW,SE,Clear,20,26,Van,True
+Hanley Highway/Westway,15/06/2024,05:45:26,SW,SE,Clear,20,21,Car,True
+Hanley Highway/Westway,15/06/2024,05:14:51,NW,NW,Clear,20,27,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,06:19:29,S,E,Clear,30,17,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,06:21:34,N,N,Clear,30,19,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,06:12:58,S,E,Clear,30,3,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,06:54:22,N,W,Clear,30,8,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,06:19:08,E,E,Clear,30,25,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,06:29:36,N,N,Clear,30,34,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,06:05:46,E,N,Clear,30,20,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,06:45:18,N,E,Clear,30,20,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,06:16:30,N,E,Clear,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,06:18:09,N,W,Clear,30,33,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,06:52:04,S,E,Clear,30,10,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,06:27:36,S,S,Clear,30,18,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,06:29:09,E,N,Clear,30,13,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,06:34:38,W,S,Clear,30,10,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,06:01:33,W,W,Clear,30,30,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,06:27:02,E,S,Clear,30,1,Buss,True
+Elm Avenue/Rabbit Road,15/06/2024,06:21:17,W,S,Clear,30,31,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,06:57:34,W,S,Clear,30,26,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,06:44:17,W,N,Clear,30,10,Car,False
+Hanley Highway/Westway,15/06/2024,06:38:21,SW,NW,Clear,20,6,Scooter,True
+Hanley Highway/Westway,15/06/2024,06:02:56,SE,NE,Clear,20,17,Bicycle,True
+Hanley Highway/Westway,15/06/2024,06:28:25,NE,NE,Clear,20,25,Bicycle,True
+Hanley Highway/Westway,15/06/2024,06:48:07,NW,SW,Clear,20,12,Scooter,True
+Hanley Highway/Westway,15/06/2024,06:11:08,SW,NW,Clear,20,3,Scooter,True
+Hanley Highway/Westway,15/06/2024,06:43:41,SW,SW,Clear,20,12,Bicycle,True
+Hanley Highway/Westway,15/06/2024,06:35:54,SW,SE,Clear,20,16,Bicycle,False
+Hanley Highway/Westway,15/06/2024,06:54:57,NW,NW,Clear,20,26,Car,False
+Hanley Highway/Westway,15/06/2024,06:59:22,SW,SE,Clear,20,9,Van,False
+Hanley Highway/Westway,15/06/2024,06:58:20,SW,NW,Clear,20,22,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,06:20:24,SW,SW,Clear,20,27,Buss,False
+Hanley Highway/Westway,15/06/2024,06:12:18,NW,NW,Clear,20,11,Bicycle,False
+Hanley Highway/Westway,15/06/2024,06:07:10,SW,NW,Clear,20,26,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,06:38:36,NW,SW,Clear,20,6,Truck,False
+Hanley Highway/Westway,15/06/2024,06:13:11,SW,NW,Clear,20,27,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,06:24:14,NE,NE,Clear,20,1,Van,True
+Hanley Highway/Westway,15/06/2024,06:42:17,NW,NW,Clear,20,5,Truck,False
+Hanley Highway/Westway,15/06/2024,06:53:21,NE,NE,Clear,20,8,Bicycle,True
+Hanley Highway/Westway,15/06/2024,06:39:07,NW,NW,Clear,20,20,Van,False
+Hanley Highway/Westway,15/06/2024,06:20:26,NW,SW,Clear,20,1,Van,False
+Hanley Highway/Westway,15/06/2024,06:19:46,SW,SW,Clear,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,06:24:48,NW,NW,Clear,20,1,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,07:16:48,N,W,Clear,30,9,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,07:33:02,N,W,Clear,30,32,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,07:44:29,N,W,Clear,30,6,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,07:55:00,N,N,Clear,30,18,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,07:14:08,W,N,Clear,30,19,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,07:52:58,W,S,Clear,30,15,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,07:48:27,S,W,Clear,30,29,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,07:15:48,W,S,Clear,30,27,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,07:56:16,W,S,Clear,30,15,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,07:32:52,W,N,Clear,30,5,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,07:19:39,W,S,Clear,30,33,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,07:09:02,N,E,Clear,30,17,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,07:32:03,S,W,Clear,30,28,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,07:16:26,N,N,Clear,30,32,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,07:20:34,E,N,Clear,30,21,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,07:15:12,N,N,Clear,30,17,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,07:17:17,S,S,Clear,30,29,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,07:57:18,S,W,Clear,30,34,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,07:02:04,S,S,Clear,30,33,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,07:21:06,W,S,Clear,30,5,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,07:28:50,W,N,Clear,30,11,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,07:00:32,W,N,Clear,30,13,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,07:49:00,E,E,Clear,30,8,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,07:51:19,S,S,Clear,30,34,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,07:55:16,E,N,Clear,30,1,Scooter,True
+Hanley Highway/Westway,15/06/2024,07:44:43,SW,NW,Clear,20,1,Buss,False
+Hanley Highway/Westway,15/06/2024,07:21:12,SW,NW,Clear,20,11,Car,False
+Hanley Highway/Westway,15/06/2024,07:10:11,SW,NW,Clear,20,12,Car,False
+Hanley Highway/Westway,15/06/2024,07:22:38,SW,NW,Clear,20,12,Scooter,True
+Hanley Highway/Westway,15/06/2024,07:23:30,NW,SW,Clear,20,26,Bicycle,True
+Hanley Highway/Westway,15/06/2024,07:05:28,SE,SW,Clear,20,4,Bicycle,True
+Hanley Highway/Westway,15/06/2024,07:14:07,SW,SE,Clear,20,15,Car,False
+Hanley Highway/Westway,15/06/2024,07:56:04,SW,SE,Clear,20,24,Van,False
+Hanley Highway/Westway,15/06/2024,07:37:46,NW,SW,Clear,20,16,Scooter,True
+Hanley Highway/Westway,15/06/2024,07:31:56,SW,NW,Clear,20,23,Car,True
+Hanley Highway/Westway,15/06/2024,07:21:50,SE,NE,Clear,20,27,Truck,False
+Hanley Highway/Westway,15/06/2024,07:59:27,SW,NW,Clear,20,27,Car,False
+Hanley Highway/Westway,15/06/2024,07:59:48,SW,SE,Clear,20,16,Scooter,True
+Hanley Highway/Westway,15/06/2024,07:43:23,SW,SW,Clear,20,6,Bicycle,True
+Hanley Highway/Westway,15/06/2024,07:02:22,NW,SW,Clear,20,14,Car,False
+Hanley Highway/Westway,15/06/2024,07:15:52,NW,SW,Clear,20,17,Car,False
+Hanley Highway/Westway,15/06/2024,07:03:05,SW,SE,Clear,20,8,Car,True
+Hanley Highway/Westway,15/06/2024,07:58:05,NW,SW,Clear,20,5,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,07:32:14,SW,NW,Clear,20,10,Buss,False
+Hanley Highway/Westway,15/06/2024,07:50:00,SW,SE,Clear,20,11,Car,False
+Hanley Highway/Westway,15/06/2024,07:17:01,SW,SW,Clear,20,20,Car,False
+Hanley Highway/Westway,15/06/2024,07:25:17,NW,SE,Clear,20,4,Car,True
+Hanley Highway/Westway,15/06/2024,07:19:26,SW,SW,Clear,20,25,Bicycle,False
+Hanley Highway/Westway,15/06/2024,07:12:18,NW,SE,Clear,20,2,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,07:32:49,SW,NW,Clear,20,25,Car,False
+Hanley Highway/Westway,15/06/2024,07:32:54,NW,SE,Clear,20,25,Buss,False
+Hanley Highway/Westway,15/06/2024,07:20:57,SW,SW,Clear,20,15,Bicycle,True
+Hanley Highway/Westway,15/06/2024,07:12:33,NW,SW,Clear,20,4,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:57:54,W,W,Clear,30,1,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:16:50,E,E,Clear,30,25,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:18:25,S,W,Clear,30,18,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:22:49,N,W,Clear,30,33,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,08:47:22,N,W,Clear,30,25,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,08:14:30,N,E,Clear,30,22,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:49:30,N,W,Clear,30,28,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:17:37,N,E,Clear,30,32,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,08:23:42,W,N,Clear,30,11,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:33:45,S,W,Clear,30,3,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,08:17:49,E,S,Clear,30,25,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:32:18,S,W,Clear,30,5,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:28:49,N,W,Clear,30,12,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,08:16:45,N,W,Clear,30,12,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,08:25:50,E,E,Clear,30,28,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,08:38:01,S,E,Clear,30,2,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:03:46,E,E,Clear,30,14,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,08:00:07,N,N,Clear,30,11,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:25:50,E,S,Clear,30,20,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:32:44,N,W,Clear,30,6,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,08:24:23,N,W,Clear,30,11,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,08:53:06,S,E,Clear,30,34,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,08:09:50,S,S,Clear,30,29,Buss,False
+Hanley Highway/Westway,15/06/2024,08:42:43,SW,SW,Clear,20,16,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,08:47:14,SW,SW,Clear,20,12,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,08:15:28,NW,SE,Clear,20,19,Bicycle,False
+Hanley Highway/Westway,15/06/2024,08:44:00,NW,SW,Clear,20,6,Scooter,True
+Hanley Highway/Westway,15/06/2024,08:40:21,NE,NE,Clear,20,1,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,08:56:57,SW,SE,Clear,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,08:45:41,NW,SW,Clear,20,6,Car,False
+Hanley Highway/Westway,15/06/2024,08:52:03,SW,SE,Clear,20,7,Scooter,True
+Hanley Highway/Westway,15/06/2024,08:16:25,SW,SW,Clear,20,21,Car,False
+Hanley Highway/Westway,15/06/2024,08:57:39,NW,SE,Clear,20,25,Van,False
+Hanley Highway/Westway,15/06/2024,08:42:20,SW,SW,Clear,20,22,Car,True
+Hanley Highway/Westway,15/06/2024,08:49:01,SE,SW,Clear,20,21,Van,True
+Hanley Highway/Westway,15/06/2024,08:40:49,SW,NW,Clear,20,10,Truck,False
+Hanley Highway/Westway,15/06/2024,08:23:03,NW,SW,Clear,20,14,Car,False
+Hanley Highway/Westway,15/06/2024,08:05:08,SW,NW,Clear,20,14,Car,True
+Hanley Highway/Westway,15/06/2024,08:26:07,SW,SE,Clear,20,24,Van,False
+Hanley Highway/Westway,15/06/2024,08:00:05,SW,SE,Clear,20,12,Truck,False
+Hanley Highway/Westway,15/06/2024,08:45:34,NE,SE,Clear,20,4,Buss,False
+Hanley Highway/Westway,15/06/2024,08:59:52,SW,SW,Clear,20,11,Bicycle,False
+Hanley Highway/Westway,15/06/2024,08:12:06,SW,SE,Clear,20,14,Van,True
+Hanley Highway/Westway,15/06/2024,08:49:39,NW,SE,Clear,20,21,Scooter,True
+Hanley Highway/Westway,15/06/2024,08:33:15,SW,NW,Clear,20,20,Car,True
+Hanley Highway/Westway,15/06/2024,08:39:26,SE,SE,Clear,20,1,Van,False
+Hanley Highway/Westway,15/06/2024,08:48:41,SW,SW,Clear,20,1,Car,False
+Hanley Highway/Westway,15/06/2024,08:20:23,SW,SE,Clear,20,1,Van,True
+Hanley Highway/Westway,15/06/2024,08:06:40,SE,SE,Clear,20,19,Buss,False
+Hanley Highway/Westway,15/06/2024,08:02:17,NW,SE,Clear,20,26,Van,False
+Hanley Highway/Westway,15/06/2024,08:21:31,SW,NW,Clear,20,12,Car,False
+Hanley Highway/Westway,15/06/2024,08:40:36,NW,SW,Clear,20,1,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:41:47,N,W,Clear,30,6,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,09:30:35,S,W,Clear,30,13,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,09:33:42,S,S,Clear,30,32,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,09:54:18,N,E,Clear,30,10,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,09:55:35,S,S,Clear,30,7,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:30:57,E,N,Clear,30,24,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,09:11:51,S,S,Clear,30,11,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,09:04:40,E,N,Clear,30,31,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,09:51:37,S,E,Clear,30,31,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,09:42:15,S,E,Clear,30,29,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,09:42:01,E,N,Clear,30,12,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:01:26,N,E,Clear,30,16,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,09:57:59,W,W,Clear,30,12,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,09:08:15,N,W,Clear,30,25,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,09:44:06,S,S,Clear,30,15,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,09:53:35,S,S,Clear,30,24,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,09:16:49,E,N,Clear,30,28,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:07:47,W,N,Clear,30,24,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:07:33,S,E,Clear,30,25,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,09:13:59,W,W,Clear,30,1,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,09:34:42,S,E,Clear,30,14,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,09:36:27,E,N,Clear,30,24,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:04:30,S,E,Clear,30,31,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,09:55:26,N,N,Clear,30,31,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:58:12,W,S,Clear,30,19,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:31:06,N,N,Clear,30,14,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,09:50:15,S,W,Clear,30,10,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,09:51:06,S,E,Clear,30,31,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,09:21:56,S,W,Clear,30,6,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,09:14:10,N,N,Clear,30,6,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,09:23:47,N,W,Clear,30,30,Truck,False
+Hanley Highway/Westway,15/06/2024,09:48:48,NW,SW,Clear,20,10,Van,False
+Hanley Highway/Westway,15/06/2024,09:37:56,SW,NW,Clear,20,10,Buss,False
+Hanley Highway/Westway,15/06/2024,09:30:35,SW,SW,Clear,20,8,Bicycle,False
+Hanley Highway/Westway,15/06/2024,09:58:30,NW,SW,Clear,20,18,Buss,False
+Hanley Highway/Westway,15/06/2024,09:15:12,SW,SE,Clear,20,7,Bicycle,True
+Hanley Highway/Westway,15/06/2024,09:31:08,SW,SE,Clear,20,12,Car,True
+Hanley Highway/Westway,15/06/2024,09:03:17,NW,SE,Clear,20,6,Truck,False
+Hanley Highway/Westway,15/06/2024,09:32:47,SW,SW,Clear,20,27,Truck,False
+Hanley Highway/Westway,15/06/2024,09:21:33,SW,SW,Clear,20,20,Car,True
+Hanley Highway/Westway,15/06/2024,09:11:23,NW,NW,Clear,20,10,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,09:14:27,NW,NW,Clear,20,21,Van,False
+Hanley Highway/Westway,15/06/2024,09:08:24,SE,SE,Clear,20,19,Car,False
+Hanley Highway/Westway,15/06/2024,09:09:57,SE,SE,Clear,20,1,Truck,False
+Hanley Highway/Westway,15/06/2024,09:54:09,SW,NW,Clear,20,10,Car,False
+Hanley Highway/Westway,15/06/2024,09:34:08,SW,SE,Clear,20,11,Scooter,True
+Hanley Highway/Westway,15/06/2024,09:00:11,NW,NW,Clear,20,11,Car,True
+Hanley Highway/Westway,15/06/2024,09:21:30,SW,SW,Clear,20,6,Car,False
+Hanley Highway/Westway,15/06/2024,09:23:50,NW,SE,Clear,20,7,Scooter,True
+Hanley Highway/Westway,15/06/2024,09:41:22,SW,SE,Clear,20,24,Truck,False
+Hanley Highway/Westway,15/06/2024,09:45:14,SW,NW,Clear,20,12,Van,False
+Hanley Highway/Westway,15/06/2024,09:10:24,SE,SW,Clear,20,27,Truck,False
+Hanley Highway/Westway,15/06/2024,09:35:32,NE,SE,Clear,20,15,Scooter,True
+Hanley Highway/Westway,15/06/2024,09:45:29,SW,NW,Clear,20,12,Car,False
+Hanley Highway/Westway,15/06/2024,09:36:32,SW,SE,Clear,20,26,Scooter,True
+Hanley Highway/Westway,15/06/2024,09:58:01,SW,NW,Clear,20,19,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,09:29:44,SW,SW,Clear,20,3,Car,True
+Hanley Highway/Westway,15/06/2024,09:34:14,SE,SW,Clear,20,15,Van,True
+Hanley Highway/Westway,15/06/2024,09:54:08,SW,SW,Clear,20,24,Car,True
+Hanley Highway/Westway,15/06/2024,09:34:36,NW,SW,Clear,20,6,Truck,False
+Hanley Highway/Westway,15/06/2024,09:43:41,SW,SW,Clear,20,11,Bicycle,True
+Hanley Highway/Westway,15/06/2024,09:40:34,SW,NW,Clear,20,8,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,09:23:33,SW,NW,Clear,20,20,Van,True
+Hanley Highway/Westway,15/06/2024,09:53:18,SW,NW,Clear,20,17,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,10:28:42,E,N,Clear,30,2,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,10:26:50,N,N,Clear,30,23,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:26:21,W,W,Clear,30,32,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:55:50,N,N,Clear,30,18,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,10:22:31,S,W,Clear,30,22,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,10:40:10,S,W,Clear,30,29,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:19:01,E,N,Clear,30,11,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,10:35:52,N,W,Clear,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,10:11:32,S,W,Clear,30,12,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,10:45:28,N,N,Clear,30,30,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,10:59:35,N,E,Clear,30,18,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,10:56:20,W,W,Clear,30,19,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:09:13,N,E,Clear,30,20,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,10:11:08,E,E,Clear,30,24,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,10:30:26,N,N,Clear,30,10,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,10:05:28,N,W,Clear,30,13,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,10:33:09,N,E,Clear,30,9,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,10:41:24,E,N,Clear,30,33,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,10:24:04,S,E,Clear,30,24,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,10:11:08,S,E,Clear,30,16,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:49:31,N,E,Clear,30,25,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,10:23:36,W,N,Clear,30,3,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:29:54,W,N,Clear,30,31,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,10:53:24,W,N,Clear,30,28,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,10:39:05,W,N,Clear,30,22,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,10:53:17,W,S,Clear,30,3,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,10:06:48,N,E,Clear,30,5,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,10:04:19,E,E,Clear,30,32,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,10:20:49,S,S,Clear,30,11,Truck,False
+Hanley Highway/Westway,15/06/2024,10:11:10,SW,SE,Clear,20,14,Car,False
+Hanley Highway/Westway,15/06/2024,10:02:47,SW,NW,Clear,20,20,Buss,False
+Hanley Highway/Westway,15/06/2024,10:25:46,SW,NW,Clear,20,21,Buss,False
+Hanley Highway/Westway,15/06/2024,10:02:14,NE,NE,Clear,20,17,Van,False
+Hanley Highway/Westway,15/06/2024,10:27:27,SW,SE,Clear,20,7,Truck,False
+Hanley Highway/Westway,15/06/2024,10:51:34,NW,SE,Clear,20,9,Buss,False
+Hanley Highway/Westway,15/06/2024,10:03:19,NE,NE,Clear,20,4,Van,False
+Hanley Highway/Westway,15/06/2024,10:49:52,NE,SE,Clear,20,17,Bicycle,True
+Hanley Highway/Westway,15/06/2024,10:56:55,SW,SW,Clear,20,11,Van,False
+Hanley Highway/Westway,15/06/2024,10:55:59,NW,NW,Clear,20,15,Bicycle,False
+Hanley Highway/Westway,15/06/2024,10:15:32,SW,SW,Clear,20,24,Scooter,True
+Hanley Highway/Westway,15/06/2024,10:57:15,SW,NW,Clear,20,20,Car,False
+Hanley Highway/Westway,15/06/2024,10:57:53,SW,SW,Clear,20,16,Car,False
+Hanley Highway/Westway,15/06/2024,10:03:49,NE,NE,Clear,20,17,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,10:32:09,NW,NW,Clear,20,19,Scooter,True
+Hanley Highway/Westway,15/06/2024,10:46:21,SW,SW,Clear,20,3,Bicycle,True
+Hanley Highway/Westway,15/06/2024,10:21:42,NW,SW,Clear,20,21,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,10:49:00,SW,SE,Clear,20,19,Bicycle,False
+Hanley Highway/Westway,15/06/2024,10:22:12,NE,NE,Clear,20,11,Bicycle,False
+Hanley Highway/Westway,15/06/2024,10:04:19,NW,NW,Clear,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,10:47:20,SW,NW,Clear,20,25,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,10:39:44,SW,NW,Clear,20,2,Van,True
+Hanley Highway/Westway,15/06/2024,10:29:19,SW,SE,Clear,20,1,Car,False
+Hanley Highway/Westway,15/06/2024,10:01:24,SW,SE,Clear,20,6,Bicycle,False
+Hanley Highway/Westway,15/06/2024,10:19:30,SW,SW,Clear,20,20,Truck,False
+Hanley Highway/Westway,15/06/2024,10:30:17,SW,NW,Clear,20,20,Truck,False
+Hanley Highway/Westway,15/06/2024,10:18:19,NW,SE,Clear,20,14,Buss,False
+Hanley Highway/Westway,15/06/2024,10:27:13,SW,SE,Clear,20,6,Car,False
+Hanley Highway/Westway,15/06/2024,10:11:40,SE,NE,Clear,20,5,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,11:55:01,W,S,Overcast,30,22,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,11:49:43,E,N,Overcast,30,28,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,11:28:41,E,E,Overcast,30,23,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,11:48:38,S,S,Overcast,30,30,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,11:28:13,N,W,Overcast,30,11,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,11:39:09,N,W,Overcast,30,13,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,11:01:16,S,E,Overcast,30,3,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,11:53:20,N,W,Overcast,30,28,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,11:10:59,E,N,Overcast,30,4,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,11:13:40,S,S,Overcast,30,8,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,11:03:47,S,W,Overcast,30,30,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,11:32:25,N,W,Overcast,30,15,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,11:45:00,E,E,Overcast,30,27,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,11:53:26,E,E,Overcast,30,17,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,11:41:50,E,E,Overcast,30,30,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,11:19:51,S,W,Overcast,30,34,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,11:55:34,S,S,Overcast,30,24,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,11:57:12,N,E,Overcast,30,18,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,11:42:54,E,S,Overcast,30,5,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,11:38:23,N,W,Overcast,30,23,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,11:50:16,S,S,Overcast,30,21,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,11:39:40,S,S,Overcast,30,28,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,11:14:59,W,S,Overcast,30,27,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,11:17:00,S,E,Overcast,30,32,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,11:25:55,S,W,Overcast,30,19,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,11:38:00,S,W,Overcast,30,7,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,11:33:02,S,W,Overcast,30,28,Bicycle,True
+Hanley Highway/Westway,15/06/2024,11:41:55,NW,SW,Overcast,20,12,Bicycle,False
+Hanley Highway/Westway,15/06/2024,11:28:38,SW,SW,Overcast,20,5,Car,True
+Hanley Highway/Westway,15/06/2024,11:05:01,NW,NW,Overcast,20,20,Bicycle,True
+Hanley Highway/Westway,15/06/2024,11:25:52,SW,NW,Overcast,20,8,Bicycle,True
+Hanley Highway/Westway,15/06/2024,11:28:00,SW,SE,Overcast,20,7,Car,True
+Hanley Highway/Westway,15/06/2024,11:14:28,NW,SW,Overcast,20,2,Buss,False
+Hanley Highway/Westway,15/06/2024,11:38:40,SW,SE,Overcast,20,12,Van,False
+Hanley Highway/Westway,15/06/2024,11:52:02,NW,SW,Overcast,20,20,Bicycle,True
+Hanley Highway/Westway,15/06/2024,11:19:14,SW,NW,Overcast,20,15,Bicycle,True
+Hanley Highway/Westway,15/06/2024,11:15:10,SW,SW,Overcast,20,11,Buss,False
+Hanley Highway/Westway,15/06/2024,11:06:42,NE,NE,Overcast,20,12,Truck,False
+Hanley Highway/Westway,15/06/2024,11:02:54,SE,SW,Overcast,20,14,Buss,True
+Hanley Highway/Westway,15/06/2024,11:43:08,SW,SW,Overcast,20,10,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,11:47:10,SW,NW,Overcast,20,19,Truck,False
+Hanley Highway/Westway,15/06/2024,11:52:24,SW,SE,Overcast,20,7,Truck,False
+Hanley Highway/Westway,15/06/2024,11:56:26,NW,NW,Overcast,20,25,Buss,False
+Hanley Highway/Westway,15/06/2024,11:02:55,SW,SW,Overcast,20,3,Buss,False
+Hanley Highway/Westway,15/06/2024,11:27:05,NW,SW,Overcast,20,9,Van,True
+Hanley Highway/Westway,15/06/2024,11:04:39,SE,SW,Overcast,20,25,Van,True
+Hanley Highway/Westway,15/06/2024,11:49:39,SW,SW,Overcast,20,24,Bicycle,True
+Hanley Highway/Westway,15/06/2024,11:45:32,SW,SW,Overcast,20,17,Buss,False
+Hanley Highway/Westway,15/06/2024,11:30:52,NW,NW,Overcast,20,3,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,11:39:36,NW,SE,Overcast,20,13,Van,False
+Hanley Highway/Westway,15/06/2024,11:54:55,SW,SW,Overcast,20,1,Car,False
+Hanley Highway/Westway,15/06/2024,11:20:32,SW,NW,Overcast,20,16,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,12:36:04,W,W,Overcast,30,25,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,12:46:50,S,E,Overcast,30,2,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,12:20:06,S,W,Overcast,30,10,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,12:03:50,N,N,Overcast,30,33,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,12:46:41,S,W,Overcast,30,14,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,12:00:09,N,N,Overcast,30,6,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,12:38:33,N,E,Overcast,30,32,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,12:46:34,E,E,Overcast,30,8,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,12:08:30,E,N,Overcast,30,17,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,12:54:33,N,N,Overcast,30,30,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,12:24:27,S,E,Overcast,30,10,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,12:30:43,E,N,Overcast,30,15,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,12:35:08,W,W,Overcast,30,12,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,12:49:56,S,S,Overcast,30,32,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,12:51:15,S,S,Overcast,30,16,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,12:05:40,N,E,Overcast,30,22,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,12:45:12,S,S,Overcast,30,11,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,12:35:58,S,W,Overcast,30,6,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,12:33:06,N,N,Overcast,30,2,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,12:04:32,W,W,Overcast,30,2,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,12:40:54,S,E,Overcast,30,5,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,12:16:34,W,N,Overcast,30,33,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,12:22:12,E,N,Overcast,30,25,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,12:38:03,W,N,Overcast,30,29,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,12:06:08,N,W,Overcast,30,11,Car,False
+Hanley Highway/Westway,15/06/2024,12:34:53,SW,SE,Overcast,20,12,Car,False
+Hanley Highway/Westway,15/06/2024,12:40:59,NE,NE,Overcast,20,24,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,12:37:41,NW,SW,Overcast,20,17,Car,False
+Hanley Highway/Westway,15/06/2024,12:04:54,NW,NW,Overcast,20,21,Bicycle,False
+Hanley Highway/Westway,15/06/2024,12:31:50,NW,NW,Overcast,20,21,Bicycle,False
+Hanley Highway/Westway,15/06/2024,12:59:49,SW,SW,Overcast,20,15,Car,False
+Hanley Highway/Westway,15/06/2024,12:36:43,SW,SE,Overcast,20,16,Car,True
+Hanley Highway/Westway,15/06/2024,12:18:14,SW,SE,Overcast,20,7,Car,True
+Hanley Highway/Westway,15/06/2024,12:38:08,SW,SW,Overcast,20,16,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,12:43:46,SW,SE,Overcast,20,3,Truck,False
+Hanley Highway/Westway,15/06/2024,12:27:18,SW,SW,Overcast,20,10,Bicycle,False
+Hanley Highway/Westway,15/06/2024,12:58:09,SW,SW,Overcast,20,25,Car,True
+Hanley Highway/Westway,15/06/2024,12:53:35,SW,SE,Overcast,20,20,Scooter,True
+Hanley Highway/Westway,15/06/2024,12:44:31,NE,NE,Overcast,20,18,Car,False
+Hanley Highway/Westway,15/06/2024,12:36:57,NE,NW,Overcast,20,15,Bicycle,True
+Hanley Highway/Westway,15/06/2024,12:36:30,SW,NW,Overcast,20,22,Scooter,True
+Hanley Highway/Westway,15/06/2024,12:59:27,SW,NW,Overcast,20,21,Car,False
+Hanley Highway/Westway,15/06/2024,12:14:27,SW,SW,Overcast,20,8,Car,True
+Hanley Highway/Westway,15/06/2024,12:07:34,SW,NW,Overcast,20,20,Truck,False
+Hanley Highway/Westway,15/06/2024,12:14:12,SW,NW,Overcast,20,23,Van,True
+Hanley Highway/Westway,15/06/2024,12:10:21,SW,SW,Overcast,20,26,Bicycle,False
+Hanley Highway/Westway,15/06/2024,12:38:04,SW,SE,Overcast,20,20,Van,False
+Hanley Highway/Westway,15/06/2024,12:22:38,NW,SW,Overcast,20,23,Bicycle,True
+Hanley Highway/Westway,15/06/2024,12:01:07,SW,SW,Overcast,20,20,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,12:21:53,SW,NW,Overcast,20,11,Car,False
+Hanley Highway/Westway,15/06/2024,12:29:04,SW,SW,Overcast,20,21,Van,False
+Hanley Highway/Westway,15/06/2024,12:50:01,SW,NW,Overcast,20,27,Bicycle,True
+Hanley Highway/Westway,15/06/2024,12:27:52,NE,NW,Overcast,20,14,Bicycle,False
+Hanley Highway/Westway,15/06/2024,12:11:37,SW,SW,Overcast,20,15,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,13:56:12,W,N,Clear,30,24,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,13:15:54,N,N,Clear,30,13,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,13:04:08,N,E,Clear,30,22,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,13:13:25,N,E,Clear,30,31,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,13:45:50,S,S,Clear,30,29,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,13:09:11,N,N,Clear,30,14,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,13:11:17,N,N,Clear,30,14,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,13:22:19,W,N,Clear,30,32,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,13:47:04,S,E,Clear,30,33,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:31:38,W,W,Clear,30,28,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,13:04:25,E,S,Clear,30,10,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,13:12:41,E,N,Clear,30,9,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:13:08,N,E,Clear,30,9,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,13:15:39,N,W,Clear,30,23,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,13:20:39,N,E,Clear,30,6,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,13:03:53,E,S,Clear,30,30,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,13:40:32,W,S,Clear,30,18,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,13:43:23,S,W,Clear,30,33,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:54:59,N,E,Clear,30,20,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,13:24:25,W,N,Clear,30,2,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:08:18,E,N,Clear,30,27,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,13:23:42,N,N,Clear,30,6,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,13:05:05,S,S,Clear,30,30,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,13:37:43,N,E,Clear,30,4,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:46:07,S,S,Clear,30,21,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:31:30,W,N,Clear,30,8,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:17:39,N,W,Clear,30,2,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,13:49:10,W,W,Clear,30,2,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,13:18:38,S,E,Clear,30,7,Bicycle,False
+Hanley Highway/Westway,15/06/2024,13:39:47,SW,NW,Clear,20,10,Buss,False
+Hanley Highway/Westway,15/06/2024,13:31:43,SW,SW,Clear,20,17,Truck,False
+Hanley Highway/Westway,15/06/2024,13:01:18,SW,NW,Clear,20,8,Van,False
+Hanley Highway/Westway,15/06/2024,13:19:04,SE,SE,Clear,20,22,Van,False
+Hanley Highway/Westway,15/06/2024,13:57:49,SW,SW,Clear,20,21,Buss,False
+Hanley Highway/Westway,15/06/2024,13:26:47,SE,SE,Clear,20,2,Truck,False
+Hanley Highway/Westway,15/06/2024,13:55:29,NE,NW,Clear,20,7,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,13:45:35,SE,NE,Clear,20,11,Scooter,True
+Hanley Highway/Westway,15/06/2024,13:03:20,SW,NW,Clear,20,21,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,13:27:25,SW,SW,Clear,20,13,Car,False
+Hanley Highway/Westway,15/06/2024,13:45:29,NE,NE,Clear,20,11,Bicycle,True
+Hanley Highway/Westway,15/06/2024,13:57:06,SE,NE,Clear,20,12,Van,False
+Hanley Highway/Westway,15/06/2024,13:02:58,SW,NW,Clear,20,18,Truck,False
+Hanley Highway/Westway,15/06/2024,13:03:20,SW,SW,Clear,20,4,Van,False
+Hanley Highway/Westway,15/06/2024,13:53:30,SW,SW,Clear,20,23,Car,False
+Hanley Highway/Westway,15/06/2024,13:57:43,SW,SE,Clear,20,15,Car,False
+Hanley Highway/Westway,15/06/2024,13:23:58,SW,NW,Clear,20,15,Bicycle,True
+Hanley Highway/Westway,15/06/2024,13:07:38,SW,SE,Clear,20,21,Car,False
+Hanley Highway/Westway,15/06/2024,13:15:55,SW,SW,Clear,20,10,Van,False
+Hanley Highway/Westway,15/06/2024,13:42:20,SW,SW,Clear,20,14,Van,False
+Hanley Highway/Westway,15/06/2024,13:07:16,SW,NW,Clear,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,13:04:54,SW,SE,Clear,20,3,Buss,False
+Hanley Highway/Westway,15/06/2024,13:34:21,NW,NW,Clear,20,2,Buss,False
+Hanley Highway/Westway,15/06/2024,13:40:59,SW,SE,Clear,20,14,Van,True
+Hanley Highway/Westway,15/06/2024,13:44:27,SE,NE,Clear,20,2,Van,False
+Hanley Highway/Westway,15/06/2024,13:45:30,SW,NW,Clear,20,6,Car,False
+Hanley Highway/Westway,15/06/2024,13:53:33,SW,SE,Clear,20,13,Buss,False
+Hanley Highway/Westway,15/06/2024,13:20:59,SW,SE,Clear,20,13,Scooter,True
+Hanley Highway/Westway,15/06/2024,13:38:02,SW,SW,Clear,20,12,Scooter,True
+Hanley Highway/Westway,15/06/2024,13:31:10,SW,SW,Clear,20,16,Truck,False
+Hanley Highway/Westway,15/06/2024,13:14:37,SE,SW,Clear,20,22,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,14:56:39,W,S,Clear,30,28,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,14:55:17,W,S,Clear,30,21,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,14:39:54,W,S,Clear,30,31,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,14:31:56,E,E,Clear,30,1,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,14:28:18,E,N,Clear,30,33,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,14:46:05,S,S,Clear,30,7,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,14:35:40,W,S,Clear,30,33,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,14:31:05,S,W,Clear,30,8,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,14:30:54,E,N,Clear,30,17,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,14:33:52,S,S,Clear,30,20,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,14:33:40,S,E,Clear,30,29,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,14:26:51,N,E,Clear,30,9,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,14:04:43,S,S,Clear,30,29,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,14:09:30,S,S,Clear,30,14,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,14:28:42,W,W,Clear,30,13,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,14:12:08,W,N,Clear,30,22,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,14:18:27,N,W,Clear,30,27,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,14:40:48,S,S,Clear,30,3,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,14:25:44,N,E,Clear,30,12,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,14:55:26,S,S,Clear,30,20,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,14:13:12,E,E,Clear,30,26,Car,True
+Hanley Highway/Westway,15/06/2024,14:17:11,NW,NW,Clear,20,14,Car,True
+Hanley Highway/Westway,15/06/2024,14:04:09,SW,SE,Clear,20,22,Van,False
+Hanley Highway/Westway,15/06/2024,14:01:17,SW,NW,Clear,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,14:35:08,SW,SE,Clear,20,6,Bicycle,True
+Hanley Highway/Westway,15/06/2024,14:10:08,SW,SE,Clear,20,25,Car,False
+Hanley Highway/Westway,15/06/2024,14:49:37,SW,SE,Clear,20,4,Bicycle,False
+Hanley Highway/Westway,15/06/2024,14:31:39,SW,SE,Clear,20,10,Bicycle,True
+Hanley Highway/Westway,15/06/2024,14:23:22,NE,NW,Clear,20,8,Truck,False
+Hanley Highway/Westway,15/06/2024,14:51:27,SW,SW,Clear,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,14:03:22,NW,SE,Clear,20,3,Bicycle,False
+Hanley Highway/Westway,15/06/2024,14:09:05,NW,SE,Clear,20,4,Truck,False
+Hanley Highway/Westway,15/06/2024,14:30:50,SW,NW,Clear,20,20,Car,False
+Hanley Highway/Westway,15/06/2024,14:12:46,NE,SE,Clear,20,3,Buss,True
+Hanley Highway/Westway,15/06/2024,14:39:56,SW,SE,Clear,20,27,Bicycle,True
+Hanley Highway/Westway,15/06/2024,14:02:38,SW,SE,Clear,20,11,Scooter,True
+Hanley Highway/Westway,15/06/2024,14:16:28,SW,NW,Clear,20,5,Buss,False
+Hanley Highway/Westway,15/06/2024,14:21:11,SW,SW,Clear,20,3,Buss,False
+Hanley Highway/Westway,15/06/2024,14:49:19,SW,SE,Clear,20,11,Van,False
+Hanley Highway/Westway,15/06/2024,14:48:10,NW,SW,Clear,20,14,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,15:59:18,S,W,Bright,30,22,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,15:47:01,S,W,Bright,30,15,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,15:21:06,S,W,Bright,30,19,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,15:38:40,N,E,Bright,30,33,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,15:53:16,S,W,Bright,30,7,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,15:05:48,E,N,Bright,30,13,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,15:51:10,E,S,Bright,30,18,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:54:20,S,E,Bright,30,26,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,15:52:43,E,S,Bright,30,33,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,15:56:39,E,N,Bright,30,21,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:17:02,E,N,Bright,30,19,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:36:57,N,N,Bright,30,25,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,15:43:21,E,S,Bright,30,10,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:16:37,W,N,Bright,30,23,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,15:53:33,S,E,Bright,30,5,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,15:37:15,S,W,Bright,30,2,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,15:57:27,S,W,Bright,30,29,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,15:21:57,N,E,Bright,30,34,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,15:09:51,S,E,Bright,30,4,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,15:28:08,W,W,Bright,30,33,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,15:21:21,S,S,Bright,30,1,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,15:45:07,S,S,Bright,30,10,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,15:28:18,E,E,Bright,30,30,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:48:13,W,N,Bright,30,33,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,15:04:57,N,W,Bright,30,13,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,15:39:54,N,N,Bright,30,29,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,15:39:53,W,N,Bright,30,33,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,15:56:57,N,W,Bright,30,27,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,15:25:17,W,N,Bright,30,6,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:27:09,W,W,Bright,30,11,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,15:48:51,W,S,Bright,30,22,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,15:17:12,S,W,Bright,30,33,Van,True
+Hanley Highway/Westway,15/06/2024,15:04:08,NW,SW,Bright,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,15:56:54,NW,SW,Bright,20,17,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,15:23:04,SW,SE,Bright,20,24,Car,False
+Hanley Highway/Westway,15/06/2024,15:34:01,NW,NW,Bright,20,6,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,15:04:56,SW,NW,Bright,20,24,Van,True
+Hanley Highway/Westway,15/06/2024,15:42:51,SW,SW,Bright,20,14,Car,False
+Hanley Highway/Westway,15/06/2024,15:31:36,SW,SW,Bright,20,18,Buss,False
+Hanley Highway/Westway,15/06/2024,15:40:52,NW,SE,Bright,20,8,Car,True
+Hanley Highway/Westway,15/06/2024,15:10:12,SW,NW,Bright,20,6,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,15:00:40,SW,NW,Bright,20,27,Buss,False
+Hanley Highway/Westway,15/06/2024,15:58:22,SW,SE,Bright,20,22,Bicycle,True
+Hanley Highway/Westway,15/06/2024,15:17:58,NE,NE,Bright,20,1,Bicycle,True
+Hanley Highway/Westway,15/06/2024,15:41:44,SW,SE,Bright,20,16,Buss,False
+Hanley Highway/Westway,15/06/2024,15:14:07,SW,SE,Bright,20,10,Truck,False
+Hanley Highway/Westway,15/06/2024,15:12:28,SW,SW,Bright,20,8,Car,True
+Hanley Highway/Westway,15/06/2024,15:57:08,SW,NW,Bright,20,3,Bicycle,False
+Hanley Highway/Westway,15/06/2024,15:14:45,SW,NW,Bright,20,12,Car,True
+Hanley Highway/Westway,15/06/2024,15:50:36,SW,SE,Bright,20,6,Van,True
+Hanley Highway/Westway,15/06/2024,15:25:11,SE,SE,Bright,20,6,Truck,False
+Hanley Highway/Westway,15/06/2024,15:23:44,SW,SE,Bright,20,24,Car,False
+Hanley Highway/Westway,15/06/2024,15:30:20,SW,SE,Bright,20,15,Buss,False
+Hanley Highway/Westway,15/06/2024,15:39:40,SW,SE,Bright,20,25,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,15:17:14,SW,SE,Bright,20,4,Van,False
+Hanley Highway/Westway,15/06/2024,15:03:49,NE,NE,Bright,20,4,Van,False
+Hanley Highway/Westway,15/06/2024,15:37:21,SW,NW,Bright,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,15:49:37,SW,SW,Bright,20,18,Scooter,True
+Hanley Highway/Westway,15/06/2024,15:18:27,NW,NW,Bright,20,22,Scooter,True
+Hanley Highway/Westway,15/06/2024,15:00:28,SW,SW,Bright,20,20,Bicycle,False
+Hanley Highway/Westway,15/06/2024,15:59:09,SW,SW,Bright,20,3,Car,True
+Hanley Highway/Westway,15/06/2024,15:24:36,SW,SW,Bright,20,2,Scooter,True
+Hanley Highway/Westway,15/06/2024,15:45:25,NW,SW,Bright,20,26,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,16:12:00,N,N,Bright,30,16,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,16:31:58,N,E,Bright,30,20,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,16:18:32,S,W,Bright,30,20,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,16:37:48,N,N,Bright,30,12,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,16:53:02,N,N,Bright,30,14,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,16:19:30,N,N,Bright,30,28,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,16:02:22,S,S,Bright,30,27,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,16:06:07,N,E,Bright,30,17,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,16:37:24,W,W,Bright,30,18,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,16:16:08,W,S,Bright,30,3,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,16:11:07,S,W,Bright,30,18,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,16:18:32,E,N,Bright,30,17,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,16:10:13,W,W,Bright,30,8,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,16:58:09,E,S,Bright,30,13,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,16:31:09,N,E,Bright,30,5,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,16:14:36,S,E,Bright,30,21,Car,False
+Hanley Highway/Westway,15/06/2024,16:24:10,SW,SW,Bright,20,20,Bicycle,False
+Hanley Highway/Westway,15/06/2024,16:34:31,SW,NW,Bright,20,12,Van,False
+Hanley Highway/Westway,15/06/2024,16:22:44,SE,NE,Bright,20,1,Bicycle,True
+Hanley Highway/Westway,15/06/2024,16:13:18,SW,SW,Bright,20,6,Buss,False
+Hanley Highway/Westway,15/06/2024,16:08:08,SW,SW,Bright,20,26,Van,False
+Hanley Highway/Westway,15/06/2024,16:30:32,NW,SW,Bright,20,23,Van,True
+Hanley Highway/Westway,15/06/2024,16:06:58,NE,NE,Bright,20,19,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,16:58:13,SW,SW,Bright,20,18,Bicycle,False
+Hanley Highway/Westway,15/06/2024,16:08:49,SW,NW,Bright,20,15,Car,False
+Hanley Highway/Westway,15/06/2024,16:12:56,NW,SE,Bright,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,16:07:04,NW,SE,Bright,20,16,Van,False
+Hanley Highway/Westway,15/06/2024,16:34:28,SW,SE,Bright,20,26,Van,True
+Hanley Highway/Westway,15/06/2024,16:28:34,NW,NW,Bright,20,3,Van,False
+Hanley Highway/Westway,15/06/2024,16:44:53,NW,NW,Bright,20,7,Car,False
+Hanley Highway/Westway,15/06/2024,16:10:15,SW,NW,Bright,20,10,Scooter,True
+Hanley Highway/Westway,15/06/2024,16:24:12,NW,SW,Bright,20,11,Buss,False
+Hanley Highway/Westway,15/06/2024,16:05:34,SW,SE,Bright,20,19,Scooter,True
+Hanley Highway/Westway,15/06/2024,16:45:08,NE,NW,Bright,20,2,Car,False
+Hanley Highway/Westway,15/06/2024,16:09:00,SW,SE,Bright,20,25,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,17:04:46,S,W,Bright,30,18,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,17:35:46,N,N,Bright,30,17,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,17:26:10,S,E,Bright,30,18,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,17:54:16,S,S,Bright,30,9,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,17:46:10,N,N,Bright,30,14,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,17:07:01,W,W,Bright,30,16,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,17:53:39,E,N,Bright,30,20,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,17:16:08,E,E,Bright,30,27,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,17:57:51,S,W,Bright,30,1,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,17:50:10,S,S,Bright,30,9,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,17:19:32,S,E,Bright,30,31,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,17:12:26,W,N,Bright,30,5,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,17:59:38,N,N,Bright,30,6,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,17:16:41,N,N,Bright,30,11,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,17:41:21,E,N,Bright,30,17,Buss,True
+Elm Avenue/Rabbit Road,15/06/2024,17:11:17,W,S,Bright,30,6,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,17:59:24,N,E,Bright,30,11,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,17:50:27,S,S,Bright,30,29,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,17:32:57,N,W,Bright,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,17:35:33,E,E,Bright,30,28,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,17:10:35,E,N,Bright,30,9,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,17:33:43,E,S,Bright,30,8,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,17:05:49,E,E,Bright,30,33,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,17:40:42,N,N,Bright,30,20,Car,False
+Hanley Highway/Westway,15/06/2024,17:46:35,NW,SW,Bright,20,23,Bicycle,False
+Hanley Highway/Westway,15/06/2024,17:39:38,NE,NE,Bright,20,12,Car,True
+Hanley Highway/Westway,15/06/2024,17:09:42,SE,NE,Bright,20,20,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,17:02:29,NW,SW,Bright,20,3,Scooter,True
+Hanley Highway/Westway,15/06/2024,17:31:44,NW,NW,Bright,20,3,Car,True
+Hanley Highway/Westway,15/06/2024,17:48:59,NW,SE,Bright,20,24,Scooter,True
+Hanley Highway/Westway,15/06/2024,17:45:07,NE,SE,Bright,20,14,Car,True
+Hanley Highway/Westway,15/06/2024,17:08:39,NW,NW,Bright,20,17,Van,True
+Hanley Highway/Westway,15/06/2024,17:41:36,SW,SE,Bright,20,15,Van,False
+Hanley Highway/Westway,15/06/2024,17:44:41,SW,SE,Bright,20,5,Car,True
+Hanley Highway/Westway,15/06/2024,17:53:01,SW,SE,Bright,20,20,Car,False
+Hanley Highway/Westway,15/06/2024,17:13:38,SW,NW,Bright,20,6,Buss,False
+Hanley Highway/Westway,15/06/2024,17:59:04,SW,NW,Bright,20,2,Buss,False
+Hanley Highway/Westway,15/06/2024,17:12:37,SW,SE,Bright,20,26,Van,False
+Hanley Highway/Westway,15/06/2024,17:59:16,SW,SE,Bright,20,6,Bicycle,False
+Hanley Highway/Westway,15/06/2024,17:14:34,SW,NW,Bright,20,6,Bicycle,True
+Hanley Highway/Westway,15/06/2024,17:57:37,SW,SE,Bright,20,24,Bicycle,False
+Hanley Highway/Westway,15/06/2024,17:08:29,SW,SW,Bright,20,3,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,17:47:57,SW,NW,Bright,20,11,Car,True
+Hanley Highway/Westway,15/06/2024,17:09:26,SW,SW,Bright,20,15,Buss,False
+Hanley Highway/Westway,15/06/2024,17:17:15,NE,NW,Bright,20,23,Car,False
+Hanley Highway/Westway,15/06/2024,17:03:15,SW,SE,Bright,20,22,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,17:47:06,SW,SE,Bright,20,11,Car,False
+Hanley Highway/Westway,15/06/2024,17:43:57,SW,SW,Bright,20,19,Scooter,True
+Hanley Highway/Westway,15/06/2024,17:36:03,SW,NW,Bright,20,13,Buss,True
+Hanley Highway/Westway,15/06/2024,17:56:07,SW,SW,Bright,20,19,Scooter,True
+Hanley Highway/Westway,15/06/2024,17:30:51,SW,SE,Bright,20,1,Bicycle,False
+Hanley Highway/Westway,15/06/2024,17:33:01,SW,SE,Bright,20,10,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,18:46:58,W,N,Clear,30,34,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,18:27:02,S,E,Clear,30,6,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:54:57,W,N,Clear,30,28,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,18:59:35,E,N,Clear,30,24,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,18:48:17,S,S,Clear,30,27,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,18:55:52,S,S,Clear,30,19,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,18:32:43,S,W,Clear,30,23,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,18:33:31,N,W,Clear,30,31,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:44:24,N,W,Clear,30,21,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:06:59,E,N,Clear,30,15,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,18:34:12,N,W,Clear,30,1,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,18:53:37,N,W,Clear,30,4,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,18:49:57,S,S,Clear,30,28,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,18:06:04,E,S,Clear,30,17,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,18:17:18,W,S,Clear,30,25,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,18:22:13,N,E,Clear,30,21,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:57:15,E,S,Clear,30,5,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,18:49:07,N,N,Clear,30,4,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,18:56:34,S,S,Clear,30,34,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:52:05,E,N,Clear,30,31,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,18:43:27,N,W,Clear,30,23,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:23:31,S,S,Clear,30,31,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,18:27:26,N,W,Clear,30,20,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:31:06,W,W,Clear,30,2,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,18:23:41,E,N,Clear,30,31,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,18:00:55,W,W,Clear,30,30,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,18:39:43,S,E,Clear,30,2,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,18:37:11,E,S,Clear,30,31,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,18:53:21,N,N,Clear,30,15,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,18:23:45,S,E,Clear,30,30,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,18:40:43,S,W,Clear,30,9,Van,True
+Hanley Highway/Westway,15/06/2024,18:10:55,SE,NE,Clear,20,6,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,18:53:39,SW,SW,Clear,20,5,Car,False
+Hanley Highway/Westway,15/06/2024,18:09:53,SW,NW,Clear,20,13,Car,True
+Hanley Highway/Westway,15/06/2024,18:40:14,SW,NW,Clear,20,2,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,18:49:02,SE,SE,Clear,20,21,Van,False
+Hanley Highway/Westway,15/06/2024,18:48:42,SW,SE,Clear,20,14,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,18:25:57,SW,SE,Clear,20,17,Bicycle,True
+Hanley Highway/Westway,15/06/2024,18:05:45,NW,NW,Clear,20,2,Car,False
+Hanley Highway/Westway,15/06/2024,18:15:42,SW,SW,Clear,20,2,Bicycle,False
+Hanley Highway/Westway,15/06/2024,18:18:01,SW,NW,Clear,20,21,Buss,False
+Hanley Highway/Westway,15/06/2024,18:41:27,SW,SW,Clear,20,24,Bicycle,False
+Hanley Highway/Westway,15/06/2024,18:47:33,SE,SW,Clear,20,14,Scooter,True
+Hanley Highway/Westway,15/06/2024,18:36:14,NW,SW,Clear,20,17,Bicycle,False
+Hanley Highway/Westway,15/06/2024,18:07:44,SW,SW,Clear,20,20,Car,False
+Hanley Highway/Westway,15/06/2024,18:20:44,SW,NW,Clear,20,20,Bicycle,False
+Hanley Highway/Westway,15/06/2024,18:32:18,SW,SE,Clear,20,17,Buss,False
+Hanley Highway/Westway,15/06/2024,18:26:57,SW,NW,Clear,20,3,Truck,False
+Hanley Highway/Westway,15/06/2024,18:23:22,NW,SW,Clear,20,16,Scooter,True
+Hanley Highway/Westway,15/06/2024,18:00:26,NE,NE,Clear,20,19,Van,False
+Hanley Highway/Westway,15/06/2024,18:57:50,SW,SW,Clear,20,17,Van,True
+Hanley Highway/Westway,15/06/2024,18:24:07,SW,NW,Clear,20,26,Bicycle,False
+Hanley Highway/Westway,15/06/2024,18:17:24,SW,SW,Clear,20,3,Car,False
+Hanley Highway/Westway,15/06/2024,18:21:11,SW,SW,Clear,20,23,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,18:51:26,SW,SW,Clear,20,4,Bicycle,True
+Hanley Highway/Westway,15/06/2024,18:27:27,NE,SE,Clear,20,19,Bicycle,True
+Hanley Highway/Westway,15/06/2024,18:04:47,NW,SW,Clear,20,9,Bicycle,True
+Hanley Highway/Westway,15/06/2024,18:44:41,NW,SE,Clear,20,24,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,18:54:49,SW,SW,Clear,20,10,Van,True
+Hanley Highway/Westway,15/06/2024,18:56:44,SW,SE,Clear,20,2,Car,False
+Hanley Highway/Westway,15/06/2024,18:45:16,SE,SE,Clear,20,19,Buss,True
+Hanley Highway/Westway,15/06/2024,18:10:16,SW,SW,Clear,20,24,Van,True
+Hanley Highway/Westway,15/06/2024,18:45:10,SW,SE,Clear,20,24,Car,False
+Hanley Highway/Westway,15/06/2024,18:09:21,SW,SW,Clear,20,5,Scooter,True
+Hanley Highway/Westway,15/06/2024,18:45:00,SE,SW,Clear,20,19,Car,True
+Hanley Highway/Westway,15/06/2024,18:09:16,NW,SW,Clear,20,6,Car,False
+Hanley Highway/Westway,15/06/2024,18:26:16,SW,NW,Clear,20,2,Bicycle,True
+Hanley Highway/Westway,15/06/2024,18:06:54,SW,SE,Clear,20,25,Van,False
+Hanley Highway/Westway,15/06/2024,18:48:51,SE,SW,Clear,20,3,Scooter,True
+Hanley Highway/Westway,15/06/2024,18:36:04,NE,NE,Clear,20,1,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,19:09:59,N,N,Clear,30,1,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,19:10:18,S,S,Clear,30,1,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:12:04,N,E,Clear,30,5,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,19:10:54,N,W,Clear,30,13,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,19:08:04,S,W,Clear,30,23,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:58:57,N,N,Clear,30,16,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,19:42:15,N,N,Clear,30,15,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,19:13:12,E,S,Clear,30,11,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,19:00:59,N,N,Clear,30,24,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:39:01,E,E,Clear,30,14,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,19:11:12,S,S,Clear,30,16,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,19:05:22,S,E,Clear,30,14,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:43:54,S,S,Clear,30,6,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,19:44:26,E,E,Clear,30,18,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,19:42:00,E,S,Clear,30,19,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,19:22:17,E,S,Clear,30,31,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,19:14:06,E,S,Clear,30,24,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,19:32:55,N,N,Clear,30,32,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,19:57:06,E,N,Clear,30,5,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,19:43:41,W,N,Clear,30,8,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:00:00,N,W,Clear,30,27,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,19:55:48,N,W,Clear,30,8,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:58:05,W,N,Clear,30,25,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,19:39:52,N,W,Clear,30,3,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,19:24:24,S,W,Clear,30,6,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,19:46:29,S,E,Clear,30,25,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,19:16:50,S,E,Clear,30,34,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,19:18:00,S,W,Clear,30,26,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,19:33:44,N,N,Clear,30,17,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,19:07:53,S,E,Clear,30,8,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,19:53:42,E,N,Clear,30,1,Car,False
+Hanley Highway/Westway,15/06/2024,19:01:56,NW,SE,Clear,20,10,Buss,False
+Hanley Highway/Westway,15/06/2024,19:41:21,SW,NW,Clear,20,17,Car,False
+Hanley Highway/Westway,15/06/2024,19:56:27,SE,SE,Clear,20,17,Car,False
+Hanley Highway/Westway,15/06/2024,19:55:21,SW,NW,Clear,20,16,Van,True
+Hanley Highway/Westway,15/06/2024,19:05:36,NW,NW,Clear,20,13,Van,False
+Hanley Highway/Westway,15/06/2024,19:45:54,NW,NW,Clear,20,3,Bicycle,False
+Hanley Highway/Westway,15/06/2024,19:09:54,SW,NW,Clear,20,27,Truck,False
+Hanley Highway/Westway,15/06/2024,19:58:39,SE,SE,Clear,20,1,Van,False
+Hanley Highway/Westway,15/06/2024,19:14:02,NW,SE,Clear,20,26,Buss,True
+Hanley Highway/Westway,15/06/2024,19:44:35,SW,NW,Clear,20,24,Bicycle,True
+Hanley Highway/Westway,15/06/2024,19:58:30,NE,NE,Clear,20,19,Scooter,True
+Hanley Highway/Westway,15/06/2024,19:41:33,SW,SE,Clear,20,14,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,19:10:17,NW,SW,Clear,20,27,Car,True
+Hanley Highway/Westway,15/06/2024,19:04:15,NW,NW,Clear,20,9,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,19:45:36,SW,SE,Clear,20,23,Bicycle,False
+Hanley Highway/Westway,15/06/2024,19:17:21,NW,NW,Clear,20,22,Scooter,True
+Hanley Highway/Westway,15/06/2024,19:30:36,SW,SW,Clear,20,2,Bicycle,True
+Hanley Highway/Westway,15/06/2024,19:09:20,NE,NW,Clear,20,17,Scooter,True
+Hanley Highway/Westway,15/06/2024,19:33:13,SW,SW,Clear,20,8,Van,True
+Hanley Highway/Westway,15/06/2024,19:45:23,NW,SE,Clear,20,21,Van,True
+Hanley Highway/Westway,15/06/2024,19:45:26,SW,SW,Clear,20,9,Scooter,True
+Hanley Highway/Westway,15/06/2024,19:55:54,NW,SE,Clear,20,6,Van,False
+Hanley Highway/Westway,15/06/2024,19:22:53,SW,NW,Clear,20,17,Bicycle,False
+Hanley Highway/Westway,15/06/2024,19:00:31,SW,NW,Clear,20,19,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,19:29:28,SW,SW,Clear,20,14,Bicycle,True
+Hanley Highway/Westway,15/06/2024,19:29:11,NW,SW,Clear,20,2,Bicycle,False
+Hanley Highway/Westway,15/06/2024,19:13:47,SW,SW,Clear,20,23,Car,False
+Hanley Highway/Westway,15/06/2024,19:26:53,SW,SW,Clear,20,15,Car,True
+Hanley Highway/Westway,15/06/2024,19:53:41,SW,NW,Clear,20,24,Car,False
+Hanley Highway/Westway,15/06/2024,19:28:18,SW,SE,Clear,20,3,Van,False
+Hanley Highway/Westway,15/06/2024,19:04:24,NW,NW,Clear,20,22,Bicycle,False
+Hanley Highway/Westway,15/06/2024,19:09:00,SE,NE,Clear,20,6,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,20:07:52,S,E,Clear,30,16,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,20:29:44,N,E,Clear,30,9,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,20:37:42,N,W,Clear,30,6,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,20:32:33,N,E,Clear,30,10,Motorcycle,True
+Elm Avenue/Rabbit Road,15/06/2024,20:42:56,E,S,Clear,30,32,Motorcycle,True
+Elm Avenue/Rabbit Road,15/06/2024,20:07:37,E,N,Clear,30,7,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,20:45:02,S,S,Clear,30,18,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,20:40:07,W,N,Clear,30,7,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,20:10:57,S,E,Clear,30,27,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,20:17:17,E,S,Clear,30,28,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,20:43:03,W,S,Clear,30,17,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,20:07:58,W,N,Clear,30,19,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,20:58:02,W,W,Clear,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,20:34:31,N,N,Clear,30,1,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,20:52:50,S,S,Clear,30,1,Bicycle,True
+Elm Avenue/Rabbit Road,15/06/2024,20:35:12,E,N,Clear,30,10,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,20:56:08,N,N,Clear,30,16,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,20:04:08,E,N,Clear,30,12,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,20:24:39,N,N,Clear,30,15,Bicycle,False
+Elm Avenue/Rabbit Road,15/06/2024,20:17:57,E,S,Clear,30,11,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,20:48:15,S,E,Clear,30,6,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,20:01:43,S,E,Clear,30,12,Van,True
+Elm Avenue/Rabbit Road,15/06/2024,20:54:59,W,N,Clear,30,29,Car,False
+Hanley Highway/Westway,15/06/2024,20:15:36,SW,NW,Clear,20,19,Truck,False
+Hanley Highway/Westway,15/06/2024,20:29:54,SW,SE,Clear,20,15,Van,True
+Hanley Highway/Westway,15/06/2024,20:23:38,NE,NW,Clear,20,19,Van,False
+Hanley Highway/Westway,15/06/2024,20:33:35,NE,SE,Clear,20,22,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,20:04:34,NE,NW,Clear,20,13,Truck,False
+Hanley Highway/Westway,15/06/2024,20:59:38,SW,NW,Clear,20,8,Scooter,True
+Hanley Highway/Westway,15/06/2024,20:40:45,SE,SE,Clear,20,25,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,20:07:32,SW,SE,Clear,20,21,Bicycle,False
+Hanley Highway/Westway,15/06/2024,20:47:17,SW,NW,Clear,20,20,Truck,False
+Hanley Highway/Westway,15/06/2024,20:49:37,NE,NW,Clear,20,1,Scooter,True
+Hanley Highway/Westway,15/06/2024,20:34:47,SW,NW,Clear,20,4,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,20:27:08,NW,NW,Clear,20,3,Bicycle,False
+Hanley Highway/Westway,15/06/2024,20:41:14,SW,SE,Clear,20,12,Scooter,True
+Hanley Highway/Westway,15/06/2024,20:51:29,SE,NE,Clear,20,15,Truck,False
+Hanley Highway/Westway,15/06/2024,20:30:14,SW,SW,Clear,20,2,Van,False
+Hanley Highway/Westway,15/06/2024,20:12:19,NE,NW,Clear,20,26,Car,True
+Hanley Highway/Westway,15/06/2024,20:17:18,SE,NE,Clear,20,25,Truck,False
+Hanley Highway/Westway,15/06/2024,20:48:33,NW,NW,Clear,20,21,Scooter,True
+Hanley Highway/Westway,15/06/2024,20:15:23,SW,SE,Clear,20,24,Buss,False
+Hanley Highway/Westway,15/06/2024,20:29:56,SW,SW,Clear,20,8,Bicycle,True
+Hanley Highway/Westway,15/06/2024,20:07:58,SW,NW,Clear,20,8,Van,False
+Hanley Highway/Westway,15/06/2024,20:42:13,SW,NW,Clear,20,8,Truck,False
+Hanley Highway/Westway,15/06/2024,20:05:58,SW,SE,Clear,20,20,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,21:26:09,S,W,Clear,30,6,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,21:50:55,S,W,Clear,30,1,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:48:40,N,E,Clear,30,7,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:06:31,N,N,Clear,30,33,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:18:17,S,E,Clear,30,6,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,21:45:14,S,W,Clear,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,21:41:49,E,N,Clear,30,11,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:53:17,N,W,Clear,30,4,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:35:05,W,S,Clear,30,4,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,21:30:20,E,S,Clear,30,19,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,21:41:52,W,W,Clear,30,6,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,21:56:48,W,W,Clear,30,29,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,21:32:49,W,S,Clear,30,26,Buss,True
+Elm Avenue/Rabbit Road,15/06/2024,21:18:46,N,N,Clear,30,14,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:39:01,S,S,Clear,30,33,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,21:12:51,E,N,Clear,30,3,Car,True
+Elm Avenue/Rabbit Road,15/06/2024,21:16:40,N,N,Clear,30,29,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,21:17:40,E,E,Clear,30,8,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,21:03:08,N,W,Clear,30,13,Scooter,True
+Hanley Highway/Westway,15/06/2024,21:11:37,SW,NW,Clear,20,1,Car,False
+Hanley Highway/Westway,15/06/2024,21:35:40,SW,SE,Clear,20,7,Car,False
+Hanley Highway/Westway,15/06/2024,21:32:15,SW,NW,Clear,20,27,Van,True
+Hanley Highway/Westway,15/06/2024,21:38:38,SW,NW,Clear,20,11,Van,True
+Hanley Highway/Westway,15/06/2024,21:57:59,SW,SW,Clear,20,2,Bicycle,True
+Hanley Highway/Westway,15/06/2024,21:29:30,SW,NW,Clear,20,15,Car,True
+Hanley Highway/Westway,15/06/2024,21:54:56,NW,SW,Clear,20,27,Car,True
+Hanley Highway/Westway,15/06/2024,21:08:07,NW,NW,Clear,20,3,Motorcycle,False
+Hanley Highway/Westway,15/06/2024,21:37:09,SW,SE,Clear,20,8,Car,False
+Hanley Highway/Westway,15/06/2024,21:23:08,SE,SW,Clear,20,5,Bicycle,True
+Hanley Highway/Westway,15/06/2024,21:50:21,NW,NW,Clear,20,21,Bicycle,True
+Hanley Highway/Westway,15/06/2024,21:01:25,SE,SW,Clear,20,24,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,21:14:20,NW,SW,Clear,20,14,Scooter,True
+Hanley Highway/Westway,15/06/2024,21:58:51,SW,SE,Clear,20,2,Scooter,True
+Hanley Highway/Westway,15/06/2024,21:56:09,SW,SW,Clear,20,2,Car,True
+Hanley Highway/Westway,15/06/2024,21:22:43,NE,SE,Clear,20,10,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,22:16:35,N,W,Overcast,30,34,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,22:07:12,N,N,Overcast,30,21,Truck,False
+Elm Avenue/Rabbit Road,15/06/2024,22:19:09,N,W,Overcast,30,11,Motorcycle,False
+Elm Avenue/Rabbit Road,15/06/2024,22:17:00,S,W,Overcast,30,16,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,22:29:29,E,S,Overcast,30,4,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,22:35:22,S,S,Overcast,30,30,Motorcycle,True
+Hanley Highway/Westway,15/06/2024,22:51:15,SW,SE,Overcast,20,23,Scooter,True
+Hanley Highway/Westway,15/06/2024,22:00:53,SW,NW,Overcast,20,24,Bicycle,True
+Hanley Highway/Westway,15/06/2024,22:54:13,NW,SW,Overcast,20,13,Scooter,True
+Hanley Highway/Westway,15/06/2024,22:05:34,SW,SE,Overcast,20,22,Scooter,True
+Hanley Highway/Westway,15/06/2024,22:04:32,NW,NW,Overcast,20,11,Bicycle,False
+Hanley Highway/Westway,15/06/2024,22:05:52,SW,SW,Overcast,20,1,Car,False
+Hanley Highway/Westway,15/06/2024,22:17:26,SW,SE,Overcast,20,23,Car,False
+Hanley Highway/Westway,15/06/2024,22:08:47,SW,SE,Overcast,20,6,Buss,False
+Elm Avenue/Rabbit Road,15/06/2024,23:33:08,S,S,Overcast,30,7,Car,False
+Elm Avenue/Rabbit Road,15/06/2024,23:51:20,N,N,Overcast,30,21,Van,False
+Elm Avenue/Rabbit Road,15/06/2024,23:16:49,E,S,Overcast,30,33,Scooter,True
+Elm Avenue/Rabbit Road,15/06/2024,23:03:29,N,W,Overcast,30,17,Bicycle,False
+Hanley Highway/Westway,15/06/2024,23:06:18,NE,NW,Overcast,20,9,Van,False
+Hanley Highway/Westway,15/06/2024,23:52:13,SW,SE,Overcast,20,5,Bicycle,True
+Hanley Highway/Westway,15/06/2024,23:30:44,SW,SE,Overcast,20,4,Bicycle,True
+Hanley Highway/Westway,15/06/2024,23:44:08,SW,SW,Overcast,20,21,Van,True
+Hanley Highway/Westway,15/06/2024,23:52:06,NW,SW,Overcast,20,15,Truck,False
+Hanley Highway/Westway,15/06/2024,23:15:51,NW,NW,Overcast,20,27,Bicycle,False
+Hanley Highway/Westway,15/06/2024,23:09:41,SW,SW,Overcast,20,1,Truck,False
+Hanley Highway/Westway,15/06/2024,23:14:07,SW,SE,Overcast,20,3,Van,True

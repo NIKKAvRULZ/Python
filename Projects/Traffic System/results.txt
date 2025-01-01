@@ -1,0 +1,68 @@
+Processed Outcomes:
+Total vehicles: 1037
+Total trucks: 109
+Total electric vehicles: 368
+Two-wheeled vehicles: 109
+Buses heading north (Elm Avenue/Rabbit Road): 15
+Vehicles going straight: 363
+Percentage of trucks: 11
+Average bicycles per hour: 7
+Vehicles over speed limit: 205
+Vehicles at Elm Avenue/Rabbit Road: 494
+Vehicles at Hanley Highway/Westway: 543
+Percentage of scooters at Elm Avenue/Rabbit Road: 11
+Peak hour traffic at Hanley Highway/Westway: 39
+Peak hour(s) at Hanley Highway/Westway: ['Between 18:00 and 19:00']
+Total hours of rain: 0
+
+Processed Outcomes:
+Total vehicles: 101
+Total trucks: 11
+Total electric vehicles: 29
+Two-wheeled vehicles: 11
+Buses heading north (Elm Avenue/Rabbit Road): 0
+Vehicles going straight: 38
+Percentage of trucks: 11
+Average bicycles per hour: 1
+Vehicles over speed limit: 20
+Vehicles at Elm Avenue/Rabbit Road: 52
+Vehicles at Hanley Highway/Westway: 49
+Percentage of scooters at Elm Avenue/Rabbit Road: 6
+Peak hour traffic at Hanley Highway/Westway: 5
+Peak hour(s) at Hanley Highway/Westway: ['Between 1:00 and 2:00']
+Total hours of rain: 0
+
+Processed Outcomes:
+Total vehicles: 1037
+Total trucks: 109
+Total electric vehicles: 368
+Two-wheeled vehicles: 109
+Buses heading north (Elm Avenue/Rabbit Road): 15
+Vehicles going straight: 363
+Percentage of trucks: 11
+Average bicycles per hour: 7
+Vehicles over speed limit: 205
+Vehicles at Elm Avenue/Rabbit Road: 494
+Vehicles at Hanley Highway/Westway: 543
+Percentage of scooters at Elm Avenue/Rabbit Road: 11
+Peak hour traffic at Hanley Highway/Westway: 39
+Peak hour(s) at Hanley Highway/Westway: ['Between 18:00 and 19:00']
+Total hours of rain: 0
+
+Processed Outcomes:
+Total vehicles: 1037
+Total trucks: 109
+Total electric vehicles: 368
+Two-wheeled vehicles: 109
+Buses heading north (Elm Avenue/Rabbit Road): 15
+Vehicles going straight: 363
+Percentage of trucks: 11
+Average bicycles per hour: 7
+Vehicles over speed limit: 205
+Vehicles at Elm Avenue/Rabbit Road: 494
+Vehicles at Hanley Highway/Westway: 543
+Percentage of scooters at Elm Avenue/Rabbit Road: 11
+Peak hour traffic at Hanley Highway/Westway: 39
+Peak hour(s) at Hanley Highway/Westway: ['Between 18:00 and 19:00']
+Total hours of rain: 0
+
